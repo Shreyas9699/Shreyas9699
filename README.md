@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub Profile! 
 
-Feel free to reach out to me at shreyas.official13@gmail.com
+Feel free to reach out to me at _shreyas.official13@gmail.com_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas9699&theme=dark&hide=Makefile&layout=donut-vertical)](https://github.com/Shreyas9699/github-readme-stats)
+_My Tech Stack_ <br>
+<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,css,html,java,react,nodejs,django,tensorflow,mongodb,sqlite,visualstudio,git,github,azure,vscode," />
+  </a>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas9699&theme=dark&hide=Makefile&layout=donut)](https://github.com/Shreyas9699/github-readme-stats)
+
