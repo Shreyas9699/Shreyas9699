@@ -18,4 +18,4 @@ Welcome to my GitHub Profile!
 
 Feel free to reach out to me at shreyas.official13@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas9699&layout=donut-vertical)](https://github.com/Shreyas9699/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas9699&theme=dark&hide=Makefile&layout=donut-vertical)](https://github.com/Shreyas9699/github-readme-stats)
