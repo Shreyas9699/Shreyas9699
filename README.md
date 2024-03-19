@@ -25,5 +25,5 @@ _My Tech Stack_ <br>
   </a>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas9699&theme=dark&hide=Makefile&layout=donut)](https://github.com/Shreyas9699/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas9699&theme=transparent&hide=Makefile&layout=donut)](https://github.com/Shreyas9699/github-readme-stats)
 
