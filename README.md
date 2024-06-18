@@ -21,7 +21,7 @@ Feel free to reach out to me at _shreyas.official13@gmail.com_
 _My Tech Stack_ <br>
 <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,css,html,java,react,nodejs,django,tensorflow,mongodb,sqlite,visualstudio,git,github,azure,vscode," />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,css,html,qt,java,react,nodejs,django,tensorflow,mongodb,sqlite,visualstudio,git,github,azure,vscode," />
   </a>
 <br>
 
