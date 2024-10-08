@@ -18,6 +18,8 @@ Welcome to my GitHub Profile!
 
 Feel free to reach out to me at _shreyas.official13@gmail.com_
 
+[![An image of @shreyas9699's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyas9699)](https://holopin.io/@shreyas9699)
+
 _My Tech Stack_ <br>
 <br>
   <a href="https://skillicons.dev">
